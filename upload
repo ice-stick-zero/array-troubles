@@ -1,0 +1,12 @@
+I need to process an array in order to achieve some tasks. 
+  Steps:
+    1. define a function to process the array
+    2. upload the array to the function
+    3. process the array in the function 
+Troubles:
+    1. what type of parameter should I write in the head of function ?
+    2. what's the type of the array?
+        It's some kind of pointer.
+    3. what's the type of the array when it's uploaded in the function?
+    4. how can I use the parameter I upload in ? just like array? or view it as address?
+    
