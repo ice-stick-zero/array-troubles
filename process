@@ -1,0 +1,8 @@
+I need to process the array to make it in place.
+  Aims:
+    1. output the array in the way of matrix:
+        steps:
+          1. read the array(if it can still be used as array)
+              
+          2. output the numbers
+              priintf("\t%d", Array[i][j])
